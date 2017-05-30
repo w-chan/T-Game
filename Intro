@@ -4,3 +4,13 @@ But : 1. Mettre un Bonhomme 2D
       3. Mettre des tagada
       4. Mettre un decord
       5. Mettre des fleur :)
+
+Objectif : 1. Crée une fenetre
+           2. Mettee une image sur la fenetre
+           3. Choisir sa position et son angle 
+           
+           5. Obtenir les touche du clavier
+           6. Gerer l'IA 
+           
+           7. Calculer la position de la souris sur la fenetre
+           8. Calculer langle entre un point et la souris
